@@ -5,5 +5,7 @@ Codes for the paper "Annual dynamic dataset of global cropping intensity from 20
 ## Contact
 
 Xiaoxuan Liu: liuxx16@mails.tsingua.edu.cn
+
 Juepeng Zheng: zjp19@mails.tsinghua.edu.cn
+
 Le Yu: leyu@tsinghua.edu.cn
